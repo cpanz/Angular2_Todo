@@ -1,0 +1,14 @@
+.idea
+typings/**
+node_modules
+jspm_packages
+**/*npm-debug.log.*
+*.js
+*.js.map
+_test-output
+_temp
+
+components
+
+!systemjs.config.js
+!typings/typings.d.ts
